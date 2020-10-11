@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on vuejs file explorer and editor
+- 🔭 I’m currently working on vuejs PDF editor and Form builder.
 - 🌱 I’m currently learning vuejs and typescript
 - 👯 I’m looking to collaborate on any plugin type projects for vuejs
 - 🤔 I’m looking for help with vue pdf web viewer and annotations
