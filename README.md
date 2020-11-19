@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/abhimanusharma/abhimanusharma/master/profile.gif)](https://www.abhimanusharma.com/)
+[![Header](https://raw.githubusercontent.com/abhimanusharma/abhimanusharma/raw/master/profile.gif)](https://www.abhimanusharma.com/)
 
 ### Languages
 
