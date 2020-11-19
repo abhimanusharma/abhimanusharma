@@ -4,7 +4,7 @@
 **abhimanusharma/abhimanusharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on vuejs PDF editor and Form builder.
+- 🔭 I’m currently working on vuejs PDF editor and dynamic Form builder.
 - 🌱 I’m currently learning vuejs and typescript
 - 👯 I’m looking to collaborate on any plugin type projects for vuejs
 - 🤔 I’m looking for help with vue pdf web viewer and annotations
