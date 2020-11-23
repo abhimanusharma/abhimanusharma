@@ -21,7 +21,7 @@
 ### Web/Full Stack projects
 
 [![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/abhimanusharma/v1)
-[![Contact Manager](https://img.shields.io/badge/-%F0%9F%A6%A0%20r?React%20Contact%20Manager-fff?)](https://github.com/abhimanusharma/react-contactmanager)
+[![Contact Manager](https://img.shields.io/badge/-%F0%9F%A6%A0%20React%20Contact%20Manager-fff?)](https://github.com/abhimanusharma/react-contactmanager)
 [![Form Builder](https://img.shields.io/badge/-%F0%9F%93%9D%20Form%20Builder-fff?)](https://github.com/abhimanusharma/vue-form-builder)
 [![PDFJsAnnotations](https://img.shields.io/badge/-%F0%9F%94%AC%20PDFJsAnnotations-fff?)](https://github.com/abhimanusharma/PDFJsAnnotations)
 [![CricBuzz](https://img.shields.io/badge/-%F0%9F%9B%B0%20CricBuzz-fff?)](https://github.com/abhimanusharma/cricbuzz)
