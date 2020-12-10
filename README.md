@@ -1,4 +1,4 @@
-[![Header](https://im7.ezgif.com/tmp/ezgif-7-42ad588a5f14.gif)](https://www.abhimanusharma.com/)
+[![Header](https://im7.ezgif.com/tmp/ezgif-7-4dab0d7b0cda.gif)](https://www.abhimanusharma.com/)
 
 ### Languages
 
