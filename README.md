@@ -2,15 +2,17 @@
 
 ### Languages
 
-[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/abhimanusharma?tab=repositories&q=&type=&language=php)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/abhimanusharma?tab=repositories&q=&type=&language=javascript)
-[![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel&logoColor=007396)](https://github.com/abhimanusharma?tab=repositories&q=laravel&type=&language=)
+[![Python](https://img.shields.io/badge/-Python-386d9d?&logo=Python&logoColor=f0d456)](https://github.com/abhimanusharma?tab=repositories&q=&type=&language=python)
 [![React](https://img.shields.io/badge/-React-fff?logo=react)](https://github.com/abhimanusharma?tab=repositories&q=react&type=&language=)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
+[![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)](https://github.com/abhimanusharma?tab=repositories&q=&type=&language=php)
+[![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel&logoColor=007396)](https://github.com/abhimanusharma?tab=repositories&q=laravel&type=&language=)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![GCP](https://img.shields.io/badge/-GCP-fff?&logo=GoogleCloud&logoColor=3e81eb)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
